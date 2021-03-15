@@ -10,7 +10,6 @@
     border: 1px solid #e2e9f8;
     background-color: #f8fafe;
     padding-bottom: 12px;
-    margin-bottom: 6px;
     padding-top: 12px;
     padding-left: 12px;
     padding-right: 12px;
