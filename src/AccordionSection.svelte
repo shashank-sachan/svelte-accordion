@@ -21,7 +21,7 @@
   $: open = $selected === key;
 </script>
 
-<li className={`accordion-section ${className}`}>
+<li class={`accordion-section ${className}`}>
   <Header on:click={handleChange.bind(null, key)} {title} {open} />
   {#if open}
     <div transition:slide>
